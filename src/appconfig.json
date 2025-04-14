@@ -1,0 +1,12 @@
+{
+	"appName": "Elidinis Helper",
+	"description": "Helper for The Gate of Elidinis boss. Shows current damage in inventory and if this can kill the boss.",
+	"appUrl": "./index.html",
+	"configUrl": "./appconfig.json",
+	"iconUrl": "./icon.png",
+	"defaultWidth": 250,
+	"defaultHeight": 180,
+	"minWidth": 250,
+	"minHeight": 180,
+	"permissions": "pixel"
+}
